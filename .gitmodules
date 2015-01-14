@@ -1,3 +1,9 @@
 [submodule "lib/Misc.pretty"]
 	path = lib/Misc.pretty
 	url = ../Misc.pretty.git
+[submodule "boards/rj45_injector"]
+	path = boards/rj45_injector
+	url = ../rj45_injector
+[submodule "boards/usb_injector"]
+	path = boards/usb_injector
+	url = ../usb_injector
